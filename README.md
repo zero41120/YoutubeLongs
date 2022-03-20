@@ -1,5 +1,5 @@
 # YoutubeLongs
-A long monkey
+A long monkey.
 I don't like shorts, I didn't ask for shorts, especially don't want shots on web. So I made this.
 
 # Installation
